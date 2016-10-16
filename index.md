@@ -1,45 +1,32 @@
 ---
 layout: default
 ---
+<img class="profile-picture" src="profile-picture.jpg">
 
-## About Me
+I am a German native speaker with extensive experience teaching German one-on-one.
+I grew up near Dresden where I went to school and university and have lived in Manchester since 2006.
+I have taught pupils at GCSE and A-Level, and adults from A1 to B2 level. I have also worked with German undergraduate students and helped them prepare for their year abroad and exams.
 
-<img class="profile-picture" src="sherlock.jpg">
+# What I offer
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+## Teaching
+I focus on supporting an individual's abilities and what they want to achieve. I have a lot of experience working one-on-one and really tailor my teaching to the student.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+You want to live abroad and practice German communication? No problem, we'll spend our lessons predominantly talking and I'll answer any grammatical questions that may occurr.
 
-## Research Interest
+You want to improve your school German and focus on preparing for a language test? Let's do it -- I have a lot of experience explaining grammar in an accessible way.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+You need German for work? We can do that too! Simply get in touch and I'll see how I can help you.
 
-## Publications
+## Translation
+I offer translation from German into English and from English into German. I am very familiar with both cultural contexts and can thus work accurately and reliably.
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+# Costs
 
-## Typography
+## Teaching
+£25 per hour one-on-one teaching.
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+## Translation
+£50 basic fee per job plus £1.50 per line (55 characters incl. spaces).
 
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+# Contact
